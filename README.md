@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="o11y-agent-skills" width="880"></p>
+
 # SigNoz Agent Skills
 
 Official SigNoz skills for Claude Code, Cursor, and the `skills.sh` ecosystem.
