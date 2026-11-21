@@ -2,6 +2,8 @@
 
 # SigNoz Agent Skills
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/o11y-agent-skills&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/o11y-agent-skills&ref=main&action=edit)
+
 Official SigNoz skills for Claude Code, Cursor, and the `skills.sh` ecosystem.
 
 ## Available Skills
